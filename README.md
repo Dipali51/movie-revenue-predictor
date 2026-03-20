@@ -67,8 +67,3 @@ streamlit run app/app.py
 ## 👩‍💻 Author
 
 **Dipali Sharma**
-
----
-
-
-<img width="1913" height="828" alt="image" src="https://github.com/user-attachments/assets/0151c344-e645-4b81-95ae-dc06ad2781fd" />
